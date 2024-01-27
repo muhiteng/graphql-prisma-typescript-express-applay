@@ -1,0 +1,1 @@
+{"version":3,"file":"books.js","sourceRoot":"","sources":["../../src/data/books.ts"],"names":[],"mappings":"AAAA,MAAM,KAAK,GAAG;IACV;QACE,KAAK,EAAE,eAAe;QACtB,MAAM,EAAE,aAAa;KACtB;IACD;QACE,KAAK,EAAE,eAAe;QACtB,MAAM,EAAE,aAAa;KACtB;CACF,CAAC;AAEF,eAAe,KAAK,CAAC"}

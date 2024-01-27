@@ -5,6 +5,16 @@ https://studio.apollographql.com/sandbox/?_gl=1*aasl5a*_ga*MTUxODAzNjc3NC4xNzA0O
 npm init --yes && npm pkg set type="module"
 //=====================================
 npm install @apollo/server graphql
+npm i @prisma/client
+npm i cors
+npm i dotenv
+npm i express
+//=========
+npm install --save-dev @types/node @types/express @types/graphql
+npm install --save-dev @types/cors
+npm install --save-dev @types/dotenv
+npm i @types/node nodemon prisma ts-node typescript
+npm i -D typescript @types/express @types/node
 //=====================================
 mkdir src
 touch src/index.ts
